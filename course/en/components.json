@@ -1,0 +1,2424 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#EAEAEA\">Make sure you change the text colour to a complimentary&nbsp;and legible one if you use this background.<br />Select your text within the authoring tool and then change the colour, click more colours and then you can change the # to any of the Hex codes. Be aware this will also change it in the adapt authoring tool and it can sometime be hard to read. I'd recommend changing the colour once the text is final.</span></p>",
+    "_id": "5f845c15c0d4e976fa86a976",
+    "_parentId": "5f845bdec0d4e976fa86a975",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>There is a wealth of guidance available on this topic, including:</p><ul><li>resource 1</li><li>resource 2</li><li>resource 3</li><li>resource 4</li></ul><p>&nbsp;</p><p>If you require more bespoke guidance, please contact the [insert team]&nbsp;at [insert hyperlinked email address].</p>",
+    "_id": "5f845c96c0d4e976fa86a97b",
+    "_parentId": "5f845c77c0d4e976fa86a97a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Do you want a title?",
+    "displayTitle": "Do you want a title?",
+    "body": "<p>There might be times where you want a title on each block and then each component, or you might want a title on only one, or no title at all.&nbsp;<br />The title that will be shown to learners is the \"display\" title in the box above the text box when editing.</p><p>To edit the title</p><p>If this box is greyed out you can either edit it in the main 'title' box directly above that, or you can click the unlink button to the right of the display title box and then enter the text you want.</p><p>To remove the title</p><p>Click the unlink button and then remove the text from the display title box. You will still need to enter a title in the main title box, but this wont be displayed as long as the two boxes are not 'linked'.&nbsp;</p>",
+    "_id": "5f845cb2c0d4e976fa86a980",
+    "_parentId": "5f845cb2c0d4e976fa86a97f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>You can also add in interactives such as carousels,&nbsp;hot graphics and accordians.</p><p>Please refer to the blank component template for all components set up.</p>",
+    "_id": "5f87fd2bc0d4e976fa86a9e7",
+    "_parentId": "5f87fd21c0d4e976fa86a9e6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Example carousel ",
+        "_ariaLevel": 3,
+        "body": "<p>When using this option ensure your images are all a consistent size.<br />You also need to make sure the ARIA or Narrative title level is set to 3, this tells screen readers it is a sub heading within a section.<br />You should also include a good brief description of the image within the alternative text box below.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e30f90b21ffb771b865d6e20e6398b653bb150a2.jpg",
+          "alt": "person completing paperwork",
+          "attribution": ""
+        },
+        "strapline": "person completing paperwork"
+      },
+      {
+        "title": "Example carousel part two",
+        "_ariaLevel": 3,
+        "body": "<p>Here you might talk about the second stage of your narrative</p>",
+        "_graphic": {
+          "src": "course/en/assets/50abfb9fa09f0fbec8df0a5e8de8b92c261cd2f6.png",
+          "alt": "image showing bar chart steadily increasing, bar 4 of 5 is highlighted red",
+          "attribution": ""
+        },
+        "strapline": "Bar charts"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Title here",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f87fd4ac0d4e976fa86a9e9",
+    "_parentId": "5f87fd3ac0d4e976fa86a9e8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>ARIA settings are how assistive technology knows which text is the main heading, sub-heading and so on and what order to read these in. Similar to HTML H1, H2 setting if you have ever used these.&nbsp;<br /><br />Any top or page heading should be set as ARIA 1, an Article or subheading should be ARIA 2 then any further headings should be ARIA 3, 4 and so on. These are done automatically in the settings, but you might want to check or change these from time to time.&nbsp;</p>",
+    "_id": "5f88294bc0d4e976fa86aa0c",
+    "_parentId": "5f88292bc0d4e976fa86aa09",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 3,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f882a29c0d4e976fa86aa0e",
+    "_parentId": "5f882a25c0d4e976fa86aa0d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Crowd of people made from wood",
+      "large": "course/en/assets/8118491a292d3edd01b633a4631f883f3f10fe6a.jpg",
+      "small": "course/en/assets/8118491a292d3edd01b633a4631f883f3f10fe6a.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>When using an image make sure it is of&nbsp;a high quality resolution.</p><p>You also need to make sure you complete the alternative text option whenever you are using an image that is integral to understanding the issue.&nbsp;</p>",
+    "_id": "5f882a31c0d4e976fa86aa0f",
+    "_parentId": "5f882a25c0d4e976fa86aa0d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Welcome to Adapt!</p><p>This software is new for all us, so we are trying to build up a template that we can all use to ensure consistency across our courses. This is still in the early stages, so please feel free to add any hints and tips to this template course as you go along.</p><p>When you first load up the authoring tool, you'll see the dashboard; a view of every course created in the app.&nbsp;Also notice the button to create a new course in the dashboard's sidebar.</p><p>The adapt layout or path is:</p><p>Course&gt;Page&gt;Article (a main section)&gt;block (subsection within the main section)&gt;component (interactive, text or image)</p>",
+    "_id": "5f8feaf7c0d4e976fa86abc6",
+    "_parentId": "5f8feaf2c0d4e976fa86abc5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>All courses should include the following:</p><ul><li>introduction and aims of course on homepage</li><li>duration of each module</li><li>further information and support module</li><li>relevant GSS/AF theme</li></ul>",
+    "_id": "5f9004ebc0d4e976fa86abd4",
+    "_parentId": "5f8feaf2c0d4e976fa86abc5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>The shared courses section will give you a list of courses others have created and shared within the system. In addition to being able to view these courses, you can also edit them (depending on your user account privileges).</p><p>To make a course you've authored yourself viewable in this section, you must enable the relevant configuration setting. This means that one person in the group who is making a course needs to create a new course, and then make it available to their team members. You can do this by going to Project settings -&gt; Share with specific users and then add the relevant team members. Alternatively, you can tick the 'Share with all users box' but this will mean others can go in a potentially edit your course!</p><p>&nbsp;</p><p>Please can you add in the good practice team account to your courses so that we can help you with any issues you find as you go along.</p><p>&nbsp;</p><p>Once the course has been created, it should show up on the dashboard. Double click the course to &nbsp;take you into the course editor.</p>",
+    "_id": "5f900541c0d4e976fa86abd6",
+    "_parentId": "5f90052ac0d4e976fa86abd5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>You can select a theme for each of your Adapt courses. In order to ensure consistency across the BPI products, you will have a choice of a GSS theme (as used in this course) or an Analysis Function theme. The theme depends on your intended audience.</p><p>These themes haven't been finalised yet, so don't worry about the theme just yet! You can easily import these at the end of your work.</p>",
+    "_id": "5f900596c0d4e976fa86abd8",
+    "_parentId": "5f900588c0d4e976fa86abd7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f9006e7c0d4e976fa86abd9",
+    "_parentId": "5f87fd0ec0d4e976fa86a9e4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Linking to another section/top of page/main menu",
+    "displayTitle": "Linking to another section/top of page/main menu",
+    "body": "<p>You can take the user to a different section of the current page</p><p>Firstly you will need to get your destination ID</p><ol><li>Go to edit on the block or article you would like to link to</li><li>Within the section you would like to link to e.g&nbsp;'Block' select the Cog icon then 'copy ID'&nbsp;</li><li>this should give you a string of numbers and letters which is a unique ID for that section or page.</li></ol><p>Next go to the place you would like to create the link from. you could create a new text box at the bottom of the page for example:</p><ol><li>Within the body of the linking item paste your code.</li><li>Click source on the top left of the toolbar.</li><li>Enter &lt;a href=\"#Uniquename\"&gt;TEXT HERE&lt;/a&gt; then copy and paste the Unique ID after the # and making sure there is no space. You can then enter the text you would like within the TEXT HERE bit of this code.</li></ol><p>&nbsp;</p><p><a href=\"#5f845cb2c0d4e976fa86a980\">Example takes you to Do you want a title</a>&nbsp;</p>",
+    "_id": "5f9007cfc0d4e976fa86abdb",
+    "_parentId": "5f9007c8c0d4e976fa86abda",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question one",
+    "displayTitle": "Question one",
+    "body": "<p>Question text goes here. For this question we have more than one correct answer.</p>",
+    "_id": "5f9013a1c0d4e976fa86abff",
+    "_parentId": "5f9013a0c0d4e976fa86abea",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select one or all that apply or are correct- Edit as needed",
+    "_items": [
+      {
+        "text": "Answer option 1- (correct answer)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 2",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 3- (correct answer)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 4",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "Feedback to your question- Try to make this title relate to your question",
+      "correct": "<p>Correct well done.&nbsp;</p><p>The answer is one and three because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>The answer is one and three because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>The answer is one and three because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Almost, try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show Correct Answer",
+        "ariaLabel": "Show Correct Answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": "Show Feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question two",
+    "displayTitle": "Question two",
+    "body": "<p>Question text goes here.</p>",
+    "_id": "5f9013a1c0d4e976fa86ac00",
+    "_parentId": "5f9013a0c0d4e976fa86abeb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select one or all that apply or are correct- Edit as needed",
+    "_items": [
+      {
+        "text": "Answer option 1",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 2",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 3",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 4",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "Feedback to your question- Try to make this title relate to your question",
+      "correct": "<p>Correct well done.&nbsp;</p><p>The answer is three because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>The answer is three because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show Correct Answer",
+        "ariaLabel": "Show Correct Answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": "Show Feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question three",
+    "displayTitle": "Question three",
+    "body": "<p>Question text goes here.</p>",
+    "_id": "5f9013a1c0d4e976fa86ac01",
+    "_parentId": "5f9013a0c0d4e976fa86abec",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select one or all that apply or are correct- Edit as needed",
+    "_items": [
+      {
+        "text": "Answer option one (correct answer)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option two (correct answer)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option three (correct answer)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option four (correct answer)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "Feedback to your question- Try to make this title relate to your question",
+      "correct": "<p>Correct well done.&nbsp;</p><p>The answer all the options....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>The answer all the options....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>The answer all the options....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Almost, try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show Correct Answer",
+        "ariaLabel": "Show Correct Answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": "Show Feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 4",
+    "displayTitle": "Question 4",
+    "body": "<p>Question text goes here. For this question three answers are correct.</p>",
+    "_id": "5f9013a1c0d4e976fa86ac02",
+    "_parentId": "5f9013a0c0d4e976fa86abed",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select one or all that apply or are correct- Edit as needed",
+    "_items": [
+      {
+        "text": "Answer option 1",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 2",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 3",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 4",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "Feedback to your question- Try to make this title relate to your question",
+      "correct": "<p>Correct well done.&nbsp;</p><p>Answers one two and four are correct because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>Answers one two and four are correct because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>Answers one two and four are correct because...Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Almost, try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show Correct Answer",
+        "ariaLabel": "Show Correct Answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": "Show Feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 5",
+    "displayTitle": "Question 5",
+    "body": "<p>Question text goes here. For this question two of the answers are correct.</p>",
+    "_id": "5f9013a1c0d4e976fa86ac03",
+    "_parentId": "5f9013a0c0d4e976fa86abee",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all that apply or are correct- Edit as needed",
+    "_items": [
+      {
+        "text": "Answer option 1",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 2",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option 3",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "Feedback to your question- Try to make this title relate to your question",
+      "correct": "<p>Correct well done.&nbsp;</p><p>The answer is two and three ....Give specific feedback to reinforce the learning.</p><p>.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>The answer is two and three....Give specific feedback to reinforce the learning.</p><p>&nbsp;</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>The answer is two and three....Give specific feedback to reinforce the learning.</p><p>&nbsp;</p>",
+        "notFinal": "<p>Almost, try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show Correct Answer",
+        "ariaLabel": "Show Correct Answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": "Show Feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question one",
+    "displayTitle": "Question one",
+    "body": "<p>Question text goes here. For this question we have more than one correct answer.</p>",
+    "_id": "5f9013a1c0d4e976fa86ac04",
+    "_parentId": "5f9013a0c0d4e976fa86abef",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select one or all that apply or are correct- Edit as needed",
+    "_items": [
+      {
+        "text": "Answer option one",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option two",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option three ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option four ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "Feedback to your question- Try to make this title relate to your question",
+      "correct": "<p>Correct well done.&nbsp;</p><p>The answer is one and three because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>The answer is one and three because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>The answer is one and three because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Almost, try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show correct answer",
+        "ariaLabel": "Show correct answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "Hide correct answer",
+        "ariaLabel": "Hide Correct Answer"
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": "Show feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question two",
+    "displayTitle": "Question two",
+    "body": "<p>Question text goes here. For this question we only have&nbsp;one correct answer.</p>",
+    "_id": "5f9013a1c0d4e976fa86ac05",
+    "_parentId": "5f9013a0c0d4e976fa86abf0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select one or all that apply or are correct- Edit as needed",
+    "_items": [
+      {
+        "text": "Answer option one",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option two",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option three (correct answer)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option four",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "Feedback to your question- Try to make this title relate to your question",
+      "correct": "<p>Correct well done.&nbsp;</p><p>The answer is three because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>The answer is three because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show Correct Answer",
+        "ariaLabel": "Show Correct Answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": "Show Feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question three",
+    "displayTitle": "Question three",
+    "body": "<p>Question text goes here. For this question all the answers are correct.</p>",
+    "_id": "5f9013a1c0d4e976fa86ac06",
+    "_parentId": "5f9013a0c0d4e976fa86abf1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select one or all that apply or are correct- Edit as needed",
+    "_items": [
+      {
+        "text": "Answer option one",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option two",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option three",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option four",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "Feedback to your question- Try to make this title relate to your question",
+      "correct": "<p>Correct well done.&nbsp;</p><p>The answer all the options....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>The answer all the options....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>The answer all the options....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Almost, try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show Correct Answer",
+        "ariaLabel": "Show Correct Answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": "Show Feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question four",
+    "displayTitle": "Question four",
+    "body": "<p>Question text goes here. For this question three answers are correct.</p>",
+    "_id": "5f9013a1c0d4e976fa86ac07",
+    "_parentId": "5f9013a1c0d4e976fa86abf2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select one or all that apply or are correct- Edit as needed",
+    "_items": [
+      {
+        "text": "Answer option one",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option two",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option three",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option four",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "Feedback to your question- Try to make this title relate to your question",
+      "correct": "<p>Correct well done.&nbsp;</p><p>Answers one two and four are correct because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>Answers one two and four are correct because....Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>Answers one two and four are correct because...Give specific feedback to reinforce the learning.</p><p>Click continue to see the next question.</p>",
+        "notFinal": "<p>Almost, try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show Correct Answer",
+        "ariaLabel": "Show Correct Answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": "Show Feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question five",
+    "displayTitle": "Question five",
+    "body": "<p>Question text goes here. For this question two of the answers are correct.</p>",
+    "_id": "5f9013a1c0d4e976fa86ac08",
+    "_parentId": "5f9013a1c0d4e976fa86abf3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all that apply or are correct- Edit as needed",
+    "_items": [
+      {
+        "text": "Answer option one",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option two",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Answer option three",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "Feedback to your question- Try to make this title relate to your question",
+      "correct": "<p>Correct well done.&nbsp;</p><p>The answer is two and three ....Give specific feedback to reinforce the learning.</p><p>.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>The answer is two and three....Give specific feedback to reinforce the learning.</p><p>&nbsp;</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>The answer is two and three....Give specific feedback to reinforce the learning.</p><p>&nbsp;</p>",
+        "notFinal": "<p>Almost, try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show Correct Answer",
+        "ariaLabel": "Show Correct Answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": "Show Feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction to template",
+    "displayTitle": "",
+    "body": "<p>What day is Christmas day?</p>",
+    "_id": "5f9013a1c0d4e976fa86ac0a",
+    "_parentId": "5f9013a1c0d4e976fa86abf5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f9013c3c0d4e976fa86ac0e",
+    "_parentId": "5f9013a1c0d4e976fa86abf5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Cogs sit alongside bar graph and line graph which show upward trend",
+      "large": "course/en/assets/33f1746d601f81c7331e6c1f6690aacdaf8aa36b.png",
+      "small": "course/en/assets/33f1746d601f81c7331e6c1f6690aacdaf8aa36b.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Title here",
+    "displayTitle": "Title here",
+    "body": "<p>You might want to use this to explain a little bit about your accordion.</p>",
+    "_id": "5f9013eec0d4e976fa86ac0f",
+    "_parentId": "5f9013a1c0d4e976fa86abf6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each title to find out more",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Topic one",
+        "body": "<p>text here to talk about topic one</p>",
+        "_graphic": {
+          "alt": "Sign post pointing in different directions against a sunset",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Topic two",
+        "body": "<p>Talk about topic two here</p>",
+        "_graphic": {
+          "alt": "3D pie chart split into three section, red largest, blue middle then yellow smallest",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Topic three",
+        "body": "<p>Discuss topic three here</p>",
+        "_graphic": {
+          "alt": "Line drawing of a squirrel standing up",
+          "src": "course/en/assets/ced7e18b8ad5d87689c8c12e19e0b69c7f022728.jpg",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Example title",
+    "displayTitle": "Example title",
+    "body": "<p>You can use this section for a sentence or two about your narrative subject&nbsp;or you can leave it blank.</p>",
+    "_id": "5f90142ec0d4e976fa86ac11",
+    "_parentId": "5f901421c0d4e976fa86ac10",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click through each section to find out more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Subject one",
+        "_ariaLevel": 2,
+        "body": "<p>More information about subject one</p>",
+        "_graphic": {
+          "src": "course/en/assets/387291462d8dd3b44d57c957eaeaa15732a833b7.jpg",
+          "alt": "woman sat at meeting table alone, dials in to video conference on her laptop",
+          "attribution": ""
+        },
+        "strapline": "Video conferencing "
+      },
+      {
+        "title": "Subject two",
+        "_ariaLevel": 2,
+        "body": "<p>Information about subject two</p>",
+        "_graphic": {
+          "src": "course/en/assets/e30f90b21ffb771b865d6e20e6398b653bb150a2.jpg",
+          "alt": "Man uses pen to fill out paperwork",
+          "attribution": ""
+        },
+        "strapline": "Paperwork"
+      },
+      {
+        "title": "Subject three",
+        "_ariaLevel": 2,
+        "body": "<p>Information about subject three</p>",
+        "_graphic": {
+          "src": "course/en/assets/ece9c3f3b889cae3811c149fd8c4d9585dd24cf3.jpg",
+          "alt": "hand giving thumbs up",
+          "attribution": ""
+        },
+        "strapline": "Thumbs up"
+      }
+    ]
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Example matching component",
+    "displayTitle": "",
+    "body": "<p>Here you might want to give a little intro but it's not necessarily needed</p>",
+    "_id": "5f901e1dc0d4e976fa86ac1b",
+    "_parentId": "5f901e12c0d4e976fa86ac1a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Complete the sentence using one of the drop down options",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "The BPI colours are",
+        "_options": [
+          {
+            "text": "Blue, grey and green",
+            "_isCorrect": true
+          },
+          {
+            "text": "Orange and purple",
+            "_isCorrect": false
+          },
+          {
+            "text": "no set colours",
+            "_isCorrect": false
+          },
+          {
+            "text": "yellow and blue",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "A scone should have",
+        "_options": [
+          {
+            "text": "butter then jam",
+            "_isCorrect": false
+          },
+          {
+            "text": "jam then cream",
+            "_isCorrect": true
+          },
+          {
+            "text": "cream then jam",
+            "_isCorrect": false
+          },
+          {
+            "text": "marmite",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "How did I do?",
+      "correct": "<p>Correct. You know that the BPI colours are blue, grey and green, and you also know that jam should be first on a scone!</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.&nbsp;</p><p>The BPI colours are blue, grey and green, and jam should be followed be cream on a scone!</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Nearly.</p><p>Incorrect.&nbsp;</p><p>The BPI colours are blue, grey and green, and jam should be followed be cream on a scone!</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show correct answer",
+        "ariaLabel": "Show correct answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "Hide correct answer",
+        "ariaLabel": "Hide correct answer"
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": "Show feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Here is where you might want to put an introduction to the topic/question</p>",
+    "_id": "5f902d19c0d4e976fa86ac1e",
+    "_parentId": "5f902c8cc0d4e976fa86ac1d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_answers": [
+          "dragon"
+        ],
+        "prefix": "The Welsh flag has a red",
+        "suffix": "on a green and white background",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": true,
+    "_feedback": {
+      "title": "Welsh flag",
+      "correct": "<p>Correct, the Welsh flag is comprised of a red dragon on a green and white background.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect,&nbsp;the Welsh flag is comprised of a red dragon on a green and white background.&nbsp;</p>",
+        "notFinal": "<p>Try again</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Incorrect,&nbsp;the Welsh flag is comprised of a red dragon on a green and white background.&nbsp;</p>",
+        "notFinal": "<p>Try again</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit answer",
+        "ariaLabel": "Submit answer"
+      },
+      "_reset": {
+        "buttonText": "Reset answer",
+        "ariaLabel": "Reset answer"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show correct answer",
+        "ariaLabel": "Show correct answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "Hide correct answer",
+        "ariaLabel": "Hide correct answer"
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": "Show feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Avoiding commons mistakes",
+    "displayTitle": "Avoiding commons mistakes",
+    "body": "<p>There are a few errors people routinely make when creating accessible text or work:</p><ol><li>No bold for emphasis,&nbsp;this gives sighted users an unfair advantage over those using screen readers, a screen reader will not know to emphasise a bold word. Try to find another way to get your point across. Front loading a sentence is more effective.</li><li>No italics,&nbsp;italics are harder to read. Note the instruction text automatically appears as italics within adapt, this is ok and meets the WCAG AA standard.</li><li>Numbers one to ten should be written as words and anything higher should be written as numerals.&nbsp;</li><li>don't use - (hyphens) to show a range, use the word to e.g 2009 to 2019</li><li>Don't use / (backslash) to show&nbsp;an either or option use the words e.g Users/readers should&nbsp;be users or readers.&nbsp;</li></ol><ol></ol>",
+    "_id": "5f902f92c0d4e976fa86ac20",
+    "_parentId": "5f902f8bc0d4e976fa86ac1f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Spellcheck",
+    "displayTitle": "Spellcheck",
+    "body": "<p>Adapt does highlight misspelled words, however it will not correct them for you and it will not highlight any other mistakes such as double spaces, double&nbsp;words or grammatical mistakes.&nbsp;</p><p>e.g. Adapt would have no issue with 'it sin the drawer' when what you meant to say was 'it's in the drawer'.</p><p>&nbsp;</p><p>This is why we recommend creating your text in another programme such as Word and then copying it over once you are happy with the content.&nbsp;</p>",
+    "_id": "5f903149c0d4e976fa86ac23",
+    "_parentId": "5f903140c0d4e976fa86ac22",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Enlarging font",
+    "displayTitle": "Enlarging font",
+    "body": "<p>There might be some instances where you need the font to be bigger in a specific section:</p><p>&lt;font size=\"+2\"\"&gt;Text here&lt;/font&gt;</p>",
+    "_id": "5f913ece3b0a63208a7b0d7d",
+    "_parentId": "5f913ec63b0a63208a7b0d7c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Background code if needed",
+    "displayTitle": "Background code if needed",
+    "body": "<p>If for some reason the background code has been deleted, or you need to change them for say the Analytical function colours then you will need to go to:</p><p>Dashboard&gt;Project settings and scroll down to Custom CSS/LESS code at the end of the general section.&nbsp;</p><p>In here you need to enter a line of code for each background colour you would like.&nbsp;</p><p>The code is:</p><p>.cBlock-01 { background-colour: #AAAAAA; }&nbsp;</p><p>you can change the number of the block for each different colour and also change the letters after the # to whatever the colour Hex code is.&nbsp;Make sure you note down which colour relates to which number as it will be easier when you apply the colours later on.</p>",
+    "_id": "5f9141713b0a63208a7b0d80",
+    "_parentId": "5f91415b3b0a63208a7b0d7f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f9142f33b0a63208a7b0d82",
+    "_parentId": "5f91415b3b0a63208a7b0d7f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7a7bf5a74a232d91f922066bd86e0f6606552001.jpg",
+      "small": "course/en/assets/7a7bf5a74a232d91f922066bd86e0f6606552001.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Media example with closed captions",
+    "displayTitle": "Media example with closed captions",
+    "body": "",
+    "_id": "5faa75fe3b0a63208a7b12b6",
+    "_parentId": "5faa75e53b0a63208a7b12b5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=Jsw3kdZNsa4",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": [
+        {
+          "srclang": "en",
+          "src": "course/en/assets/2b43ffc97f01de9649bf94659d5f37dedd6b956c.vtt"
+        }
+      ]
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": true,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_pauseWhenOffScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "download transcript",
+      "transcriptLink": "course/en/assets/d1d8e84d922b2598aac0ba6b3dd4421e153622c3.docx"
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "youtube example with Closed captions ",
+    "displayTitle": "youtube example with Closed captions ",
+    "body": "<p>this is what it looks like when you embed directly with youtube (note some of these captions are incorrect)</p>",
+    "_id": "5faa76043b0a63208a7b12b7",
+    "_parentId": "5faa75e53b0a63208a7b12b5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "ended",
+    "_media": {
+      "_source": "//www.youtube.com/embed/Jsw3kdZNsa4",
+      "_controls": true,
+      "_allowFullscreen": false,
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": true,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": null
+    },
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "Download transcript",
+      "transcriptLink": "course/en/assets/d1d8e84d922b2598aac0ba6b3dd4421e153622c3.docx"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Hyperlinks",
+    "displayTitle": "Hyperlinks",
+    "body": "<p>Hyperlinks will not automatically open in a new tab or window, they will open on the same page as the course meaning users will no longer see your course. You need to set a new window up for each hyperlink you insert.&nbsp;</p><ol><li>Enter text you want to hyperlink from (remember click here and so on a re bad for accessibility)</li><li>Highlight and select the link button from the tool bar</li><li>Enter the URL you want to link to</li><li>select the 'target' tab</li><li>Select '(New window _blank)' from the drop down list.&nbsp;</li></ol>",
+    "_id": "5fabd8523b0a63208a7b12ee",
+    "_parentId": "5f903140c0d4e976fa86ac22",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Useful links",
+    "displayTitle": "Useful links",
+    "body": "<p>If you want to check how accessible your content are there are some links/tools you might find useful.&nbsp;</p><ul><li><a href=\"https://ons-design-system.netlify.app/styles/colours/\" target=\"_blank\">Accessible colours</a> that have been through the website accessibilty audit</li><li><a href=\"https://webaim.org/resources/contrastchecker/\" target=\"_blank\">A tool</a> for checking if your text and background meet accessibility requirements</li><li>&nbsp;</li></ul>",
+    "_id": "5faea53c3b0a63208a7b1371",
+    "_parentId": "5faea5343b0a63208a7b1370",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>To enable resources you need to first ensure the pug in or extension is enabled.&nbsp;</p><ol><li>Go to course structure</li><li>select manage extensions from the left hand menu</li><li>enable the resources extension</li><li>Go back to course structure</li><li>select properties&nbsp;</li><li>select or scroll to extensions</li><li>select resources enable and then add your files from there.&nbsp;</li></ol><p><br />&nbsp;</p>",
+    "_id": "5fb7e4c7bf638204fc40024e",
+    "_parentId": "5f900469c0d4e976fa86abd3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fb7ead2bf638204fc400250",
+    "_parentId": "5fb7eac1bf638204fc40024f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/36e030a8969c4158bd2129b8ff3f1f63060bc06b.png",
+      "small": "course/en/assets/36e030a8969c4158bd2129b8ff3f1f63060bc06b.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>There are a few ways your user navigate through a course created in adapt.&nbsp;</p><p>Yellow circle- is a back button taking them back to the main page</p><p>Blue circle- lists the resources you've included on this course, note this only shows as an option if you've enabled resources, and is only selectable if you have also added resources.&nbsp;<br /><br />Orange circle- lists the various sections within that page. You can determine what is listed here by ensuring the 'page progress' option is enabled on your article, block or component depending on which you want to link to. For example, you might want to link to the article for your quiz, rather than each question. It is automatically enabled for each component so it's worth checking when you preview your course, and ensuring whatever you have enabled has a clear sensible name otherwise you might end up with a few 'new component title' sections (it's happened to the best of us!)<br /><br />There is a component that creates buttons to allow users to click next, back, home and so on called&nbsp; page navigation. It is best practice to put this at the end of your page as it is on this page.</p>",
+    "_id": "5fb7eaddbf638204fc400252",
+    "_parentId": "5fb7ead7bf638204fc400251",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fb7ecd6bf638204fc400257",
+    "_parentId": "5fb7ecd1bf638204fc400256",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fb7ee58bf638204fc400259",
+    "_parentId": "5fb7ee53bf638204fc400258",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "5fd891dc155d3830851b3170",
+    "_parentId": "5fd891ba155d3830851b316f",
+    "_type": "component",
+    "_layout": "full"
+  }
+]
