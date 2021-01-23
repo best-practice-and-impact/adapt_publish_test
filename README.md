@@ -1,5 +1,7 @@
 # How to publish Adapt Course 
 
+Step by Step video guide
+[![](./link_image.png)](https://www.youtube.com/watch?v=plCjmYUIaVQ&feature=youtu.be)
 
 ## Steps
 
